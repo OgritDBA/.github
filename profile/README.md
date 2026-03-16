@@ -1,8 +1,8 @@
 # Ogrit Bilgi Teknolojileri 🚀
 
 <p align="center">
-  <img src="https://ogrit.net/sites/default/files/logo%20%281%29.png" width="350" alt="Ogrit Logo">
-</p>
+  <img src="https://ogrit.net/sites/default/files/logo%20%281%29.png" width="200" alt="Ogrit Logo">
+</p>2
 
 ---
 
