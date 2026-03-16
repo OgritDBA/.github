@@ -1,7 +1,7 @@
 # Ogrit Bilgi Teknolojileri 🚀
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/268605251?s=200&v=4" width="350" alt="Ogrit Logo">
+  <img src="https://ogrit.net/sites/default/files/logo%20%281%29.png" width="350" alt="Ogrit Logo">
 </p>
 
 ---
