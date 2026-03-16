@@ -1,7 +1,7 @@
 # Ogrit Bilgi Teknolojileri 🚀
 
 <p align="center">
-  <img src="https://www.ogrit.com/wp-content/uploads/2021/04/ogrit-logo-1.png" width="350" alt="Ogrit Logo">
+  <img src="https://avatars.githubusercontent.com/u/268605251?s=200&v=4" width="350" alt="Ogrit Logo">
 </p>
 
 ---
@@ -35,8 +35,6 @@ Veri yönetimi alanında lider bir danışmanlık şirketi olarak, müşterileri
 - [ ] Veritabanı Güvenliği (DevSecOps)
 - [ ] Yüksek Erişilebilirlik (Always On / HA)
 - [ ] Veri Ambarı ve İş Zekası
-
----
 
 ---
 
