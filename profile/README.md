@@ -48,7 +48,7 @@ Ekibimizle size üç farklı merkezden hizmet veriyoruz:
 ---
 
 **📫 İletişim:**
-🌐 [www.ogrit.com](https://www.ogrit.com) | 📧 [info@ogrit.com](mailto:info@ogrit.com) | 📞 0540 006 47 48
+🌐 [www.ogrit.com](https://www.ogrit.net) | 📧 [info@ogrit.com](mailto:info@ogrit.net) | 📞 0540 006 47 48
 
 ---
 © 2026 Ogrit. Tüm hakları saklıdır.
