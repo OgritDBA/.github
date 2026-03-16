@@ -38,10 +38,16 @@ Veri yönetimi alanında lider bir danışmanlık şirketi olarak, müşterileri
 
 ---
 
-### 📈 GitHub Faaliyetlerimiz
-![Ogrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=OgritDBA&show_icons=true&theme=dark&hide_border=true)
+---
+
+### 📍 Lokasyonlarımız
+Ekibimizle size üç farklı merkezden hizmet veriyoruz:
+
+* **Düzce (Merkez):** Şehit Murat Demir, Teknopark Caddesi No:1, Yörük/Düzce
+* **Sakarya (Hendek):** Dereboğazı, Osman Yılmaz Cd. No:19 Daire:7, Hendek/Sakarya
+* **Kocaeli (Gebze):** Gaziler, Issıkgöl Cd. No: 138/69 Kat: 4, Gebze/Kocaeli
 
 ---
 
-**📫 Bize Ulaşın:**
-🌐 [www.ogrit.com](https://www.ogrit.com) | 📧 [info@ogrit.com](mailto:info@ogrit.com) | 📍 Düzce, Türkiye
+**📫 İletişim:**
+🌐 [www.ogrit.com](https://www.ogrit.com) | 📧 [info@ogrit.com](mailto:info@ogrit.com) | 📞 0540 006 47 48
